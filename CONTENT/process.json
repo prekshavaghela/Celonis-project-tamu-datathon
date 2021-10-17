@@ -1,0 +1,22 @@
+{
+  "process" : {
+    "permissions" : [ "MOVE_TO", "DELETE_WORKSPACE", "CREATE_WORKSPACE", "DELETE_ALL_WORKSPACES", "DELETE_ALL_ANALYSES", "EDIT_ALL_ANALYSES", "EDIT_ALL_WORKSPACES", "USE_ALL_ANALYSES", "CREATE_ANALYSES", "EDIT_WORKSPACE", "MANAGE_PERMISSIONS", "EXPORT_CONTENT" ],
+    "id" : "c3622323-3dd2-4fa4-95fa-759abd9d7730",
+    "name" : "Data Model Pizza",
+    "description" : null,
+    "dataModelId" : "03a8964b-6748-4401-b6cc-ca4eba35ffa4",
+    "changedDate" : 1634404106095,
+    "creatorUserId" : "3c82cf1c-e749-4215-9fc0-34022490a771",
+    "uplinkId" : null,
+    "connected" : false,
+    "contentId" : null,
+    "contentVersion" : 0,
+    "poolId" : null,
+    "perm" : -1,
+    "licensed" : true,
+    "tags" : [ ],
+    "objectId" : "c3622323-3dd2-4fa4-95fa-759abd9d7730",
+    "uplink" : false,
+    "parentObjectId" : null
+  }
+}
